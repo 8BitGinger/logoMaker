@@ -23,9 +23,11 @@ main {
 }
 
 .seperator {
-    background-color: rgba(255, 255, 255, 0.642);
+    background-color: rgba(255, 238, 0, 0.76);
     width: 10px;
     border-radius: 10px;
+    margin: 50px;
+    margin-left: 0;
 }
 
 aside {
@@ -71,8 +73,7 @@ section {
 
 .screenshot {
     border: 2px solid black;
-    width: 250px;
-    height: 250px;
+    width: 50%;
     margin: 20px;
     
 }
@@ -102,11 +103,12 @@ section {
     justify-content: center;
     text-align: center;
     border-radius: 15px;
+    font-family: 'dosis';
     
 }
 
 .title-adj {
-    color: rgba(22, 178, 187, 0.659);
+    color: rgba(238, 18, 18, 0.659);
 }
 
 .top{
@@ -138,7 +140,7 @@ section {
 }
 
 .big {
-    font-size: 100px;
+    font-size: 200px;
     color: black;
 }
 
@@ -150,6 +152,7 @@ p {
 
 .how {
     width: 20%;
+    height: 100%;
 }
 
 .video {
@@ -179,7 +182,7 @@ p {
     height: auto;
 }
 
-h1,
+
 h2 {
     font-family: 'dela gothic one';
 
@@ -195,9 +198,9 @@ h2 {
 }
 
 .red {
-    color: rgb(243, 29, 29);
+    color: rgb(223, 250, 219);
     font-size: large;
-    background-color: black;
+    background-color: rgb(0, 0, 0);
     border-radius: 8px;
     padding: 3px 5px;
     margin: 3px;
@@ -274,7 +277,7 @@ li {
 }
 
 h1 {
-    color: black;
+    color: rgb(25, 102, 189);
 }
 
 img:hover {
@@ -283,4 +286,5 @@ img:hover {
 
 .logo2 {
     height: 150px;
+    margin: 0px 20px;
 }
