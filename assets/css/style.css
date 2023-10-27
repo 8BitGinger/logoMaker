@@ -4,7 +4,7 @@
 }
 
 body {
-    background-image: url(../images/colorful-wooden-plank.jpg);
+    background-image: url(../images/wallpaper.jpg);
     background-position: center;
     background-size: cover;
     width: 100%;
@@ -135,7 +135,7 @@ justify-content: center;
 
 .jumbotron  {
     filter: opacity(90%);
-    background-image: linear-gradient(to right, rgba(255, 0, 0, 0.358), rgba(255, 166, 0, 0.368), rgba(255, 255, 0, 0.495), rgba(0, 0, 255, 0.352), rgba(76, 0, 130, 0.363), rgba(238, 130, 238, 0.412));
+    background-image: linear-gradient(to top, rgba(0, 179, 255, 0.553), rgba(255, 170, 0, 0.63));
     margin: auto;
     text-align: center;
     align-items: center;
