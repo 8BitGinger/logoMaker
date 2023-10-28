@@ -14,10 +14,11 @@ A simple node.js app designed to generate a basic logo in SVG file format.
 1. [Usage](#usage)
 2. [Installation Code](#installation)
 3. [Contributing](#contributing)
-4. [Screenshot](#screenshot)
+4. [Screenshots](#screenshot)
 5. [License](#license)
 6. [Tests](#tests)
 7. [Links](#links)
+8. [Dependencies](#depend)
 8. [Questions](#support)
 
 ---
@@ -39,8 +40,11 @@ None
 
 
 <a id="screenshot"></a>
-## Screenshot
+## Screenshots
 ![screenshot](./assets/images/svg-screenshot.png)
+![screenshot-prompt](./assets/images/logomaker-prompts.png)
+![screenshot-jest](./assets/images/logomaker-pass-test.png)
+![screenshot-generatedLogo](./assets/images/logomaker-svg.png)
 
 ---
 
@@ -66,11 +70,17 @@ Jest
 https://8bitginger.github.io/logoMaker/
 
 ### Video Demo Link:
-
+https://drive.google.com/file/d/1lcrDryVQPgZvlWgk5jKz9UgtfcOKAWCS/view
 
 ### Clone Link:
 ```
 git@github.com:8BitGinger/logoMaker.git
+```
+
+<a id="depend"></a>
+### Dependencies:
+```
+"dependencies":{"graceful-fs":"^4.2.11","inquirer":"^8.0.0","jest":"^29.7.0","node":"^21.1.0"}
 ```
 
 <a id="support"></a>

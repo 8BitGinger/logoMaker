@@ -173,15 +173,15 @@ p {
     align-content: center;
     align-items: center;
     margin: auto;
-    width: 100%;
-    padding: 10px;
+    width: fit-content;
+    padding: 50px;
 }
 
 .vid {
-    width: 80%;
+    width: 100%;
     justify-content: center;
     border-radius: 8px;
-    padding: 15px;
+    
 }
 
 .link {
