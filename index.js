@@ -84,7 +84,6 @@ async function init() {
 	user_shape_color = answers.shape;
 	console.log("User shape color: [" + user_shape_color + "]");
 	user_shape_type = answers["pixel-image"];
-	console.log("User entered shape = [" + user_shape_type + "]");
 	
 	let user_shape;
 	if (user_shape_type === "Square" || user_shape_type === "square") {

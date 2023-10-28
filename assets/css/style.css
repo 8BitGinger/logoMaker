@@ -305,3 +305,34 @@ img:hover {
 .padding {
     padding: 30px;
 }
+
+@media screen and (max-width: 576px) {
+
+   * {
+    margin: auto;
+    padding: 0;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    text-align: center;
+    margin: 5px;
+   }
+
+   .row {
+    flex-direction: column;
+    
+   }
+
+   .jumbotron {
+    flex-direction: column;
+    width: 100%;
+    
+   }
+
+   .aside {
+    width: 100%;
+    height: fit-content;
+   }
+
+   
+}
