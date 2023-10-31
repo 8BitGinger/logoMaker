@@ -64,17 +64,17 @@ Jest
 ## Links
 
 ### Repo Link:
- https://github.com/8BitGinger/logoMaker
+ https://github.com/8BitGinger/svg4free
 
 ### Deployed Link:
-https://8bitginger.github.io/logoMaker/
+https://8bitginger.github.io/svg4free/
 
 ### Video Demo Link:
 https://drive.google.com/file/d/1lcrDryVQPgZvlWgk5jKz9UgtfcOKAWCS/view
 
 ### Clone Link:
 ```
-git@github.com:8BitGinger/logoMaker.git
+git@github.com:8BitGinger/svg4free.git
 ```
 
 <a id="depend"></a>
